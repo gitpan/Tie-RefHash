@@ -1,0 +1,9 @@
+Changes
+lib/Tie/RefHash.pm
+MANIFEST			This list of files
+t/rebless.t
+t/refhash.t
+t/storable.t
+t/threaded.t
+META.yml
+Makefile.PL
